@@ -1,0 +1,38 @@
+{
+  "name": "bound-points",
+  "version": "1.0.0",
+  "description": "Find a bounding box for a set of points",
+  "main": "bounds.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bunny": "^1.0.1",
+    "tape": "^3.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikolalysenko/bound-points.git"
+  },
+  "keywords": [
+    "bounding",
+    "box",
+    "axis",
+    "aligned",
+    "aabb",
+    "bound",
+    "point",
+    "points",
+    "mesh"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/bound-points/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/bound-points"
+}
