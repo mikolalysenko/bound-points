@@ -35,7 +35,13 @@ Computes an axis aligned bounding box for a set of points.
 
 * `points` is an array of points
 
-**Returns** A pair of upper and lower bounds for the point set.
+**Returns** A pair of lower and upper bounds for the point set.
+
+For example:
+
+```js
+[ [ minX, minY ], [ maxX, maxY ] ]
+```
 
 # License
 (c) 2015 Mikola Lysenko. MIT License
